@@ -1,3 +1,10 @@
+### This repository contains the code and instructions for reproducing the experiments presented in:
+
+    "Successful Misunderstandings: Learning to Coordinate Without Being Understood", 
+    Nikolaos Kondylidis, Anil Yaman, Frank van Harmelen, Erman Acar, Annette Ten Teije, 
+    Presented at the 22nd European Conference on Multi-Agent Systems (EUMAS 2025), Bucharest
+
+
 ## 1 Experiment Preparation
 ### 1.1 Download or clone this git
 ### 1.2 Create python environment and install required libraries
