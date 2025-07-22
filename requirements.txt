@@ -1,0 +1,7 @@
+numpy
+omegaconf
+hydra-core
+tqdm
+rdflib
+networkx
+scikit-learn

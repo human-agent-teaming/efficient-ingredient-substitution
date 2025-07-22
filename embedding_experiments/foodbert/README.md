@@ -1,0 +1,4 @@
+- preprocess_instructions
+- training
+- generate_embeddings
+- translate_embeddings 

@@ -1,0 +1,1 @@
+- ingredient_names.json and extended-bert-base-cased-original.txt are generated with training.py 
