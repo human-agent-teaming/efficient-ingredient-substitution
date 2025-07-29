@@ -1,9 +1,17 @@
+<h1 align="center"> Stop replacing salt with sugar!
+<div>
+<img src=https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white>
+<img src=https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge&logo=PyTorch>
+</h1>
+
+
 ### This repository contains the code and instructions for reproducing the experiments presented in:
 
-    "``Stop replacing salt with sugar!'': Towards Intuitive Human-Agent Teaching", 
-    Nikolaos Kondylidis, Andrea Rafanelli, Ilaria Tiddi, Annette Ten Teije, Frank Van Harmelen, 
-    Presented at the 22nd European Conference on Multi-Agent Systems (EUMAS 2025), Bucharest
-
+> Stop replacing salt with sugar!: Towards Intuitive Human-Agent Teaching", Nikolaos Kondylidis, Andrea Rafanelli, Ilaria Tiddi, Annette Ten Teije, Frank Van Harmelen, 
+  Presented at the 22nd European Conference on Multi-Agent Systems (EUMAS 2025), Bucharest.
+<p align="center">
+    <img src="images/AI-chef.png" height="500" width="500">
+</p>
 
 ## 1 Experiment Preparation
 ### 1.1 Download or clone this git
