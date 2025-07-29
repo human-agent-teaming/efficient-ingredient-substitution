@@ -10,7 +10,7 @@
 > Stop replacing salt with sugar!: Towards Intuitive Human-Agent Teaching", Nikolaos Kondylidis, Andrea Rafanelli, Ilaria Tiddi, Annette Ten Teije, Frank Van Harmelen, 
   Presented at the 22nd European Conference on Multi-Agent Systems (EUMAS 2025), Bucharest.
 <p align="center">
-    <img src="images/AI-chef.png" height="500" width="500">
+    <img src="image/AI-chef.png" height="500" width="500">
 </p>
 
 ## 1 Experiment Preparation
